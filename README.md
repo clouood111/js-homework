@@ -3,4 +3,4 @@
 
 
 ### 20240627 - JS 이벤트 과제
-[Elemental](https://github.com/clouood111/js-homework/blob/main/mission02/README.md)
+[Elemental_event](https://github.com/clouood111/js-homework/blob/main/mission02/README.md)
